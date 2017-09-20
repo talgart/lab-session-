@@ -1,2 +1,3 @@
 # lab-session-
-intro to git 
+intro to git
+It's me Juma 
